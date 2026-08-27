@@ -1,0 +1,15 @@
+#pragma once
+
+#include "makima/application/winhttp_transport.hpp"
+#include "makima/platform/bitmap_capture.hpp"
+#include "makima/platform/composition_root.hpp"
+#include "makima/platform/control_session.hpp"
+#include "makima/platform/crypto_provider.hpp"
+#include "makima/platform/kernel_symbols.hpp"
+#include "makima/platform/pe_mapping_plan.hpp"
+#include "makima/platform/security_monitor.hpp"
+#include "makima/platform/system_services.hpp"
+#include "makima/platform/target_discovery.hpp"
+#include "makima/platform/telemetry.hpp"
+#include "makima/platform/win32_entry.hpp"
+#include "makima/platform/windows_management.hpp"
