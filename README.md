@@ -1,6 +1,6 @@
 # Makima Source
 
-This repo has the incomplete source of makima internal cheat, most of the decompiling was done by AI so expect mistakes and bad decompile throughout the code.
+This repo has the complete source of makima internal cheat, most of the decompiling was done by AI so expect mistakes and bad decompile throughout the code.
 
 website: makima.rip
 
@@ -15,7 +15,5 @@ The app also takes screenshots of your entire screen and sends them to their ser
 All of this is visible in the source code for anyone to verify, and there might be other risks that havent been fully uncovered yet.
 
 Later on the DLL source will also be released.
-
-This source will be constantly updated by AI.
 
 https://discord.gg/y5nhG4RnCB
