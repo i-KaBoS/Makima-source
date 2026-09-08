@@ -12,4 +12,5 @@ The app also takes screenshots of your entire screen and sends them to their ser
 
 All of this is visible in the source code for anyone to verify, and there might be other risks that havent been fully uncovered yet.
 
+Join Nova's Server
 https://discord.gg/w3kFCHDexV
