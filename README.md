@@ -2,7 +2,7 @@
 
 the new loader will be added soon 
 
-site ip : 178.63.139.100
+site ip : 178.63.139.100 port 1984
 
 old protection > VMP 
 
