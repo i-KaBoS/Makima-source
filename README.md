@@ -2,6 +2,8 @@
 
 the new loader will be added soon 
 
+site ip : 178.63.139.100
+
 old : 
 
 This repo has the complete source of makima internal cheat, most of the decompiling was done by AI so expect mistakes and bad decompile throughout the code.
