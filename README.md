@@ -8,6 +8,8 @@ old protection > VMP
 
 new added protection > OLLVM
 
+the new loader uses both protections
+
 old : 
 
 This repo has the complete source of makima internal cheat, most of the decompiling was done by AI so expect mistakes and bad decompile throughout the code.
