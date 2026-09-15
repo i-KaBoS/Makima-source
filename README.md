@@ -1,17 +1,5 @@
 # Makima Source
 
-the new loader will be added soon 
-
-site ip : 178.63.139.100 port 1984
-
-old protection > VMP 
-
-new added protection > OLLVM
-
-the new loader uses both protections
-
-old : 
-
 This repo has the complete source of makima internal cheat, most of the decompiling was done by AI so expect mistakes and bad decompile throughout the code.
 
 website: makima.rip
